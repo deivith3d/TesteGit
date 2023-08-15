@@ -3,3 +3,4 @@
 -Ajustar ponto
 -Avaliar trabalhos
 -Aula noite
+-Dormir
